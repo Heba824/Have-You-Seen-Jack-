@@ -29,5 +29,5 @@ A third-person Unity (URP) narrative prototype featuring custom character moveme
 1. Clone or download this repository as a `.zip`.
 2. Open **Unity Hub** and click **Add** $\rightarrow$ select the project root folder.
 3. Ensure you are using **Unity 6 (6000.0.3f1)** or any compatible URP version.
-4. Navigate to `Assets/Scenes/` and open **`MainLevel.unity`**.
+4. Navigate to `Assets/Scenes/` and open **`Assignment.unity`**.
 5. Press the **Play** button in the Unity Editor to test.
