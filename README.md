@@ -10,10 +10,10 @@ A third-person Unity (URP) narrative prototype featuring custom character moveme
 ---
 
 ## 🎮 Key Features & Mechanics
-* **Custom Third-Person Controller:** Smooth movement vector calculations aligned with camera orientation.
-* **Physics & Ground Snapping:** Custom ground-check logic and persistent velocity snapping to prevent character clip-through on floor colliders.
-* **Animation Rigging:** Root Motion integration and looped locomotion clips with stabilized root transforms.
-* **Universal Render Pipeline (URP):** Styled lighting and visual presentation.
+- **Custom Third-Person Controller:** Smooth movement vector calculations aligned with camera orientation.
+- **Physics & Ground Snapping:** Custom ground-check logic and persistent velocity snapping to prevent character clip-through on floor colliders.
+- **Animation Rigging:** Root Motion integration and looped locomotion clips with stabilized root transforms.
+- **Universal Render Pipeline (URP):** Styled lighting and visual presentation.
 
 ---
 
@@ -21,6 +21,12 @@ A third-person Unity (URP) narrative prototype featuring custom character moveme
 | Input | Action |
 | :--- | :--- |
 | **WASD / Arrow Keys** | Move Character |
+| **Shift (Hold)** | Run / Sprint |
+| **Spacebar** | Jump |
+| **E** | Interact (Bed, Pick Up Items) |
+| **Q** | Drink Potion |
+| **F** | Drop Lantern |
+| **V** | Change POV (First and Third) |
 | **Right Mouse Button + Drag** | Orbit Camera |
 
 ---
