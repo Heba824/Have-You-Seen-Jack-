@@ -5,7 +5,7 @@ A third-person Unity (URP) narrative prototype featuring custom character moveme
 ---
 
 ## 📹 Gameplay Video Demo
-[Watch the Gameplay Demonstration Video](https://drive.google.com/file/d/1qoZxhGGIZgMu4FB59ynijp95FipsKZDE/view?usp=sharing)
+[Watch the Gameplay Demonstration Video](https://drive.google.com/file/d/1nm4_Rl5cO3eACbSQhE1kluKq_FHFl3nO/view?usp=sharing)
 
 ---
 
